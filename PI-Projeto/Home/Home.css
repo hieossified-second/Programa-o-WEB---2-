@@ -60,6 +60,9 @@ body {
     right: 50px;
 }
 
+.menu button:first-child{
+    background-color: #4b805c;
+}
 
 .menu nav {
     position: relative;
